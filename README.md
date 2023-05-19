@@ -20,7 +20,7 @@ I am an aspiring Artificial Intelligence engineer with a passion for creativity 
 
 ## Projects:
 - Project 1
- - ##WIP##
+  - ##WIP##
 
 ## Work Experience:
 - SAN MARTIN SA, Intern, 1 week
