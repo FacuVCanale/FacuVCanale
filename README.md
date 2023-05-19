@@ -1,7 +1,6 @@
 # 💻 - Facundo Viñas Canale - 🌍
 
 ## Profile:
-- **Name**: Facundo Viñas Canale
 - **Field of Study**: Artificial Intelligence Engineering
 - **Language Proficiency**: English (Professional), Spanish (Native), Portuguese (Basic), Italian (Basic)
 
