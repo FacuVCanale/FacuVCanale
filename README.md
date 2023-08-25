@@ -13,7 +13,7 @@ I am an aspiring Artificial Intelligence engineer with a passion for creativity 
   - *Expected Graduation Date*: 12/2027 🎓
 
 ## 🛠️ Skills:
-- Programming Languages: Python
+- Programming Languages: Python, Haskell, Java
 - Software Development: Version Control (Git), Software Testing
 - Problem-Solving: Analytical Thinking, Creative Solutions
 
