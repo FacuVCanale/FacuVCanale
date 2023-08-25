@@ -18,7 +18,7 @@ I am an aspiring Artificial Intelligence engineer with a passion for creativity 
 - Problem-Solving: Analytical Thinking, Creative Solutions
 
 ## 📂 Projects:
-- TP-Final-PC
+- TP_Final_PC
   - Experience our university project where a team of four programmers harnessed Python's prowess to conquer a 3D function resembling a mountain through gradient ascent and descent strategies. Witness the competition unfold in real time with our interactive UI.
 
 ## 💼 Work Experience:
