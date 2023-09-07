@@ -5,7 +5,7 @@
 - **Language Proficiency**: English (Professional), Spanish (Native), Portuguese (Basic), Italian (Basic)
 
 ## 📝 Summary:
-I am an aspiring Artificial Intelligence engineer with a passion for creativity and a strong desire to learn. I thrive on tackling new challenges and I am open to remote work opportunities. My expertise lies in Python programming, and I am developing a solid foundation in the field of Artificial Intelligence. Currently learning C and Java.
+I am an aspiring Artificial Intelligence engineer with a passionate creativity and a strong desire to learn. I thrive on tackling new challenges and I am open to remote work opportunities. My expertise lies in Python programming, and I am developing a solid foundation in the field of Artificial Intelligence. Currently learning C and Java.
 
 ## 📚 Education:
 - **Bachelor's Degree in Artificial Intelligence Engineering** (ongoing)
