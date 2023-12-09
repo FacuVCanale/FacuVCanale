@@ -5,15 +5,15 @@
 - **Language Proficiency**: English (Professional), Spanish (Native), Portuguese (Basic), Italian (Basic)
 
 ## 📝 Summary:
-I am an aspiring Artificial Intelligence engineer with a passionate creativity and a strong desire to learn. I thrive on tackling new challenges and I am open to remote work opportunities. My expertise lies in Python programming, and I am developing a solid foundation in the field of Artificial Intelligence. Currently learning C and Java.
+I am an aspiring Artificial Intelligence engineer with a passionate creativity and a strong desire to learn. I thrive on tackling new challenges and I am open to remote work opportunities. My expertise lies in Python programming, and I am developing a solid foundation in the field of Artificial Intelligence.
 
 ## 📚 Education:
 - **Bachelor's Degree in Artificial Intelligence Engineering** (ongoing)
   - *University/Institution Name*: Saint Andrew's University (UdeSA)
-  - *Expected Graduation Date*: 12/2027 🎓
+  - *Graduation Date*: 12/2027 🎓
 
 ## 🛠️ Skills:
-- Programming Languages: Python, Haskell, Java
+- Programming Languages: Python, Haskell, Java, C#, Kotlin
 - Software Development: Version Control (Git), Software Testing
 - Problem-Solving: Analytical Thinking, Creative Solutions
 
