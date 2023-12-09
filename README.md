@@ -20,6 +20,8 @@ I am an aspiring Artificial Intelligence engineer with a passionate creativity a
 ## 📂 Projects:
 - TP_Final_PC
   - Experience our university project where a team of four programmers harnessed Python's prowess to conquer a 3D function resembling a mountain through gradient ascent and descent strategies. Witness the competition unfold in real time with our interactive UI.
+- GameJam2023
+  - Winner of People's Favourite Prize in the ITBA Game Jam 2023.
 
 ## 💼 Work Experience:
 - SAN MARTIN SA, Intern, 1 week
