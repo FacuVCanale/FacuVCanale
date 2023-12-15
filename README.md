@@ -23,18 +23,11 @@ I am an aspiring Artificial Intelligence engineer with a passionate creativity a
 - GameJam2023
   - Winner of People's Favourite Prize in the ITBA Game Jam 2023.
 
-## 💼 Work Experience:
-- SAN MARTIN SA, Intern, 1 week
-  - During my tenure at 'San Martin SA', I had the privilege of collaborating with the esteemed TI team, where I played an integral role in computer maintenance and optimization, ensuring optimal performance and the creation of virtual user accounts.
-
 ## 🔍 Additional Information:
 - Strong interpersonal and communication skills, enabling effective collaboration in team environments.
 - Proven ability to adapt quickly to new technologies and programming languages.
 - Passionate about staying up-to-date with the latest advancements in Artificial Intelligence and technology.
 - Actively involved in online communities and forums related to programming and Artificial Intelligence.
-
-## 📞 References:
-Available upon request.
 
 <!--
 **FacuVCanale/FacuVCanale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
