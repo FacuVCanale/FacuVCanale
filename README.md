@@ -18,7 +18,7 @@ I am an aspiring Artificial Intelligence engineer with a passionate creativity a
 - Problem-Solving: Analytical Thinking, Creative Solutions
 
 ## 📂 Projects:
-- HACKIT/BA 24' Finance Winners
+- HACKIT/BA 24' Winners
 - GameJam2023
   - Winner of People's Favourite Prize in the ITBA Game Jam 2023.
 - TP_Final_PC
