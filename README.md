@@ -9,7 +9,7 @@ I am an aspiring Artificial Intelligence engineer with a passionate creativity a
 
 ## 📚 Education:
 - **Bachelor's Degree in Artificial Intelligence Engineering** (ongoing)
-  - *University/Institution Name*: Saint Andrew's University (UdeSA)
+  - *University/Institution Name*: Universidad de San Andrés (UdeSA)
   - *Graduation Date*: 12/2027 🎓
 
 ## 🛠️ Skills:
@@ -18,10 +18,12 @@ I am an aspiring Artificial Intelligence engineer with a passionate creativity a
 - Problem-Solving: Analytical Thinking, Creative Solutions
 
 ## 📂 Projects:
-- TP_Final_PC
-  - Experience our university project where a team of four programmers harnessed Python's prowess to conquer a 3D function resembling a mountain through gradient ascent and descent strategies. Witness the competition unfold in real time with our interactive UI.
+- HACKIT/BA 24' Finance Winners
 - GameJam2023
   - Winner of People's Favourite Prize in the ITBA Game Jam 2023.
+- TP_Final_PC
+  - Experience our university project where a team of four programmers harnessed Python's prowess to conquer a 3D function resembling a mountain through gradient ascent and descent strategies. Witness the competition unfold in real time with our interactive UI.
+
 
 ## 🔍 Additional Information:
 - Strong interpersonal and communication skills, enabling effective collaboration in team environments.
