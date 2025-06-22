@@ -46,8 +46,7 @@ I’m currently topping the GPA charts at **Universidad de San Andrés (UdeSA)**
 ## 📚 Projects (selected)
 - **HACKIT/BA ’24 Solution** – Full-stack prototype that clinched 1st place; integrates a GPT-powered chatbot with AWS serverless backend.  
 - **Gradient Mountaineer** – Uni capstone where our team of four visualised 3-D gradient ascent/descent in real time using Python + OpenGL.  
-- **PSAG Vision Suite** – Ongoing industrial-grade computer-vision pipeline for pallet-product detection (YOLO v8, CuPy).  
-*(Check the /pinned repos for the code!)*
+- **PSAG Vision Suite** – Ongoing industrial-grade computer-vision pipeline for pallet-product detection (YOLO v8, CuPy).
 
 ---
 
