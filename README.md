@@ -56,7 +56,7 @@ I build end-to-end systems across **Computer Vision**, **time-series ML**, and *
 ## 🧭 Experience
 
 ### **Alethia Carbon Credits** — Argentina / Remote  
-**Co-founder & CTO** · *May 2025 – Present*
+**CTO** · *May 2025 – Present*
 - **EC-Based MRV:** Built a measurement, reporting and verification (MRV) pipeline combining Eddy Covariance towers and satellite imagery to estimate **CO₂ removal** for agricultural projects, using SOTA AI models.
 - **Blockchain Tokenization:** Implemented an Ethereum-based blockchain network to tokenize carbon credits, implementing **mint**, **transfer** and **burn** logic so credits are traceable and immutable.
 
