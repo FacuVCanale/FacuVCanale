@@ -25,7 +25,7 @@ Profile README — Facundo Viñas Canale
 
 ---
 
-## 🧰 Tech Skills (Top)
+## 🧰 Tech Skills
 
 <div align="center">
   <a href="https://skillicons.dev">
