@@ -8,7 +8,7 @@ Profile README — Facundo Viñas Canale
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Facundo%20Vi%C3%B1as%20Canale&fontSize=52&fontAlignY=35&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/FacuVCanale">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&center=true&vCenter=true&width=980&lines=AI+Engineering+%40+UdeSA+%7C+GPA+10.0%2F10.0;Co-founder+%26+CTO+%40+Alethia+Carbon+Credits;Computer+Vision+%7C+Time-Series+ML+%7C+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&center=true&vCenter=true&width=980&lines=AI+Engineering+%40+UdeSA+%7C+GPA+10.0%2F10.0;Co-founder+%26+CTO+%40+Alethia+Earth;Computer+Vision+%7C+Time-Series+ML+%7C+Blockchain" alt="Typing SVG" />
 </a>
 
 <br/>
