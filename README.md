@@ -49,7 +49,7 @@
 - **[bikeshare-demand-gnn](https://github.com/FacuVCanale/bikeshare-demand-gnn)** — Graph Neural Networks (GraphTransformer / GAT / SAGE) forecasting EcoBici bike demand in Buenos Aires from spatial, temporal and weather features. **R² = 0.91**, PyTorch Geometric.
 - **Alethia Carbon Credits Platform** *(work)* — End-to-end platform for on-chain, scientifically-verified carbon credits: sensor + satellite ingestion, uncertainty-aware flux models, smart-contract backend and dashboard.
 - **Embryo ViT-MAE Research** *(ongoing)* — Self-supervised masked autoencoders (ViT-MAE / VideoMAE) learning representations of embryo-development videos for downstream classification.
-- **[gomoku-ai](https://github.com/FacuVCanale/gomoku-ai)** — Heuristic Gomoku agent with a Gymnasium environment and a Swiss-format tournament engine (TrueSkill) plus a distributed Flask play server.
+- **Gomoku AI** — Minimax & Negamax agents with alpha-beta pruning and custom threat-evaluation heuristics, plus a Gymnasium environment and a Swiss-format tournament engine (TrueSkill).
 - **[second-brain-system](https://github.com/FacuVCanale/second-brain-system)** — A plain-text graph knowledge base (Obsidian + git) that separates durable knowledge from daily operation.
 - **[autonomous-coding-agent](https://github.com/FacuVCanale/autonomous-coding-agent)** — An autonomous coding agent (published on npm) for long-horizon, spec-driven development.
 
