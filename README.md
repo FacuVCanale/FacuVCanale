@@ -41,13 +41,13 @@ Python and PyTorch most days; TypeScript for the tooling; C, C++, Java, Kotlin a
 
 Small tools I built for myself and still run every day:
 
-- **[second-brain-system](https://github.com/FacuVCanale/second-brain-system)**
+- **[second-brain-system](https://github.com/FacuVCanale/second-brain-system)**<br>
 A plain-text graph knowledge base (Obsidian + git) that an AI agent maintains alongside me over MCP. The thesis is separating durable knowledge from daily operation.
-- **[cc-life-planner](https://github.com/FacuVCanale/cc-life-planner)** 
+- **[cc-life-planner](https://github.com/FacuVCanale/cc-life-planner)**<br>
 The operational half of that split: markdown state, slash commands, and a local timeline viewer that auto-calibrates how optimistic my time estimates are.
-- **[session-bridge](https://github.com/FacuVCanale/session-bridge)** 
+- **[session-bridge](https://github.com/FacuVCanale/session-bridge)**<br>
 Converts sessions between Claude Code and Codex CLI so the same work resumes in either tool.
-- **[self-hosted-ci](https://github.com/FacuVCanale/self-hosted-ci)** 
+- **[self-hosted-ci](https://github.com/FacuVCanale/self-hosted-ci)**<br>
 A fail-closed protocol for opt-in CI on ephemeral self-hosted runners: transactional leases, admission fencing, and per-commit verifiable attestations.
 
 ## Previously
