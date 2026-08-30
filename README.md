@@ -6,7 +6,7 @@ AI Engineering student at Universidad de San Andrés (Buenos Aires), 10.0/10.0 G
 
 ## What I'm working on
 
-**Carbon flux modeling at Alethia.** Gradient boosting baselines and modern sequence architectures over ~700 FLUXNET sites and 24 years of half-hourly eddy-covariance data, trained and validated site-wise so the numbers mean something on land the model has never seen. Process-model calibration validated against tower ground truth, and a full uncertainty budget propagated by Monte Carlo. I'm writing it up as sole author for submission.
+**Carbon flux modeling at Alethia.** Gradient boosting baselines and modern sequence architectures over ~700 FLUXNET sites and 24 years of half-hourly eddy-covariance data, trained and validated site-wise so the numbers mean something on land the model has never seen. Process-model calibration validated against tower ground truth, and a full uncertainty budget propagated by Monte Carlo.
 
 **V-JEPA for biomedical video.** Self-supervised world models over embryo development microscopy — pretraining a joint-embedding predictive architecture on hundreds of thousands of clips, then probing the representations for downstream staging. Half of that work is forensic: reading loss curves and layer statistics closely enough to catch representation collapse before it quietly poisons every result downstream.
 
