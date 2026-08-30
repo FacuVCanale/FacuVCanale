@@ -56,6 +56,8 @@ A fail-closed protocol for opt-in CI on ephemeral self-hosted runners: transacti
 
 **AI Engineer intern at Move37AI** (2024) — real-time performance prediction from time-series data.
 
+**AI Advisor at YDLab I** (2025) — the first edition of the Youth Diplomats AI Lab, training 50+ participants on AI for policy.
+
 **Teaching assistant**, Introduction to Programming at UdeSA (2024).
 
 Freelance work since: a virtual try-on platform taken to production for a retail client.
