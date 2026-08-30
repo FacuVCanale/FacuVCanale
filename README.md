@@ -10,6 +10,8 @@ AI Engineering student at Universidad de San Andrés (Buenos Aires), 10.0/10.0 G
 
 **V-JEPA for biomedical video.** Self-supervised world models over embryo development microscopy — pretraining a joint-embedding predictive architecture on hundreds of thousands of clips, then probing the representations for downstream staging. Half of that work is forensic: reading loss curves and layer statistics closely enough to catch representation collapse before it quietly poisons every result downstream.
 
+**Reacher — an autonomous B2B prospection agent.** Co-lead on a system that researches companies, drafts personalized outreach, sends it, watches for replies and writes follow-ups, all running unattended. Durable search workers, a tool-use harness, Supabase-backed state and an onboarding flow where an agent reads your site and generates its own targeting context. Benchmarked down to cents per company fully researched, which is the number that decides whether a pipeline like this is a product or a demo.
+
 **Autonomous agents that perceive and act.** Behavior cloning and DAgger for embodied agents in open-ended 3D environments, with V-JEPA as the visual encoder — the same architecture family as the biomedical work, pointed at control instead of diagnosis. It sits on top of classical robotics: before learned policies, I did the estimation and planning stack by hand on real hardware.
 
 ## What I'm good at
